@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+*.log   
+.DS_Store
+*.tmp
+*.bak
+package-lock.json
+yarn.lock
